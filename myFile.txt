@@ -1,4 +1,0 @@
-Hello World!
-This is a change from feature-1 branch
-
-A change from the main branch.
